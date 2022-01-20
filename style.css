@@ -1,0 +1,30 @@
+body{
+    background-color: #454545;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.naslov{
+    color: #d1d1d1;
+    text-align: center;
+}
+.paragraf{
+    font-size: 20px;
+    font-family: poppins;
+    text-align: center;
+    color: cadetblue;
+}
+.highlight{
+    color: #da7c00;
+}
+input {
+    margin: 0 auto;
+    display: block;
+}
+img{
+    margin: auto;
+    display: block;
+}
+@font-face{
+    font-family: 'poppins';
+    src: url(fonts/poppins.ttf);
+}
